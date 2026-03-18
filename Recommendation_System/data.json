@@ -1,0 +1,31 @@
+[
+  
+  {"title": "Avengers", "type": "movie", "genre": "action"},
+  {"title": "John Wick", "type": "movie", "genre": "action"},
+  {"title": "Mad Max: Fury Road", "type": "movie", "genre": "action"},
+  {"title": "The Hangover", "type": "movie", "genre": "comedy"},
+  {"title": "Superbad", "type": "movie", "genre": "comedy"},
+  {"title": "Titanic", "type": "movie", "genre": "romance"},
+  {"title": "The Notebook", "type": "movie", "genre": "romance"},
+  {"title": "Interstellar", "type": "movie", "genre": "sci-fi"},
+
+  
+  {"title": "Harry Potter", "type": "book", "genre": "fantasy"},
+  {"title": "The Hobbit", "type": "book", "genre": "fantasy"},
+  {"title": "Game of Thrones", "type": "book", "genre": "fantasy"},
+  {"title": "Sherlock Holmes", "type": "book", "genre": "mystery"},
+  {"title": "Gone Girl", "type": "book", "genre": "mystery"},
+  {"title": "Pride and Prejudice", "type": "book", "genre": "romance"},
+  {"title": "Me Before You", "type": "book", "genre": "romance"},
+  {"title": "The Alchemist", "type": "book", "genre": "philosophy"},
+
+  
+  {"title": "Shape of You", "type": "music", "genre": "pop"},
+  {"title": "Blinding Lights", "type": "music", "genre": "pop"},
+  {"title": "Levitating", "type": "music", "genre": "pop"},
+  {"title": "Perfect", "type": "music", "genre": "romance"},
+  {"title": "All of Me", "type": "music", "genre": "romance"},
+  {"title": "Believer", "type": "music", "genre": "rock"},
+  {"title": "Bohemian Rhapsody", "type": "music", "genre": "rock"},
+  {"title": "Closer", "type": "music", "genre": "electronic"}
+]
