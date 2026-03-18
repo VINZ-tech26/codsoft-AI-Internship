@@ -1,4 +1,4 @@
-#  AI Chatbot – Task 2
+#  AI Chatbot 
 
 This project is developed as part of my AI Internship at CodSoft.
 
@@ -20,4 +20,4 @@ It is a Python-based chatbot with a GUI interface that can interact with users a
 python chatbot_gui.py
 
 ##  Internship
-Task 2 – AI Chatbot project for CodSoft AI Internship.
+ AI Chatbot project for CodSoft AI Internship.
