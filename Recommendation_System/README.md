@@ -1,4 +1,4 @@
-# 🎯 Recommendation System (Task 4)
+ Recommendation System 
 
 This project is part of my CodSoft AI Internship.
 
